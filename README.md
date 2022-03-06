@@ -22,8 +22,7 @@
 
 ### CONTACT
 ---
-  📫 How to reach me
+  📫 E-mail: caiohamc@gmail.com 
   
-    caiohamc@gmail.com
-    
-    https://www.linkedin.com/in/caio-albuquerque-a65a9b82/
+  📫 Linkedin: https://www.linkedin.com/in/caio-albuquerque-a65a9b82/
+  
