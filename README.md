@@ -1,24 +1,16 @@
-### Hi there 👋
+## Hi there 👋 👋
 ---
 **caiohamc/caiohamc** This is my ✨ _special_ ✨ repository! It tells some things about me! Let's go ? ;)
 
 ### ABOUT ME
 ---
-  🔭 I’m currently working with
+  🔭 Currently working with: Java 8+, Git, JMeter, REST APIs, Spring, Postgresql, Sql Server, JUnit, Scrum, Docker, Monolith, etc.
   
-    Java 8+, Git, JMeter, Postgresql, Sql Server, JUnit, Scrum, Docker, etc.
+  🌱 Currently learning: AWS, Angular 12+, Kubernetes, Clean Arch, Cucumber, Prometheus, Grafana, Elasticsearch, etc.
   
-  🌱 I’m currently learning
+  ⚡ Currently using: Intellij, Visual Studio Code, DBeaver, Microsoft Azure, JMeter, Netbeans, etc.
   
-    Clean Arch, SOLID, Angular 12+, React, Cucumber, K8s, Prometheus, Grafana, Elasticsearch, etc.
-  
-  ⚡ I'm currently using
-  
-    Intellij, Visual Studio Code, DBeaver, Microsoft Azure, JMeter, Netbeans, etc.
-  
-  🤔 I’m thinking about learn
-  
-    React, Vue.js, Flutter, etc.
+  🤔 Currently thinking about learn: React, Vue.js, Flutter, etc.
 
 ### CONTACT
 ---
