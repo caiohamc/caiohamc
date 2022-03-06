@@ -2,15 +2,19 @@
 
   🔭 Currently working with:
     
-    _Java 8+_, _Git_, _JMeter_, _REST APIs_, _Spring_, _Postgresql_, _Sql Server_, _JUnit_, _Scrum_, _Docker_, _Monolith_, etc.
+    Java 8+, Git, JMeter, REST APIs, Spring, Postgresql, Sql Server, JUnit, Scrum, Docker, Monolith, etc.
   
   🌱 Currently learning
   
     AWS, Angular 12+, Kubernetes, Clean Arch, Cucumber, Prometheus, Grafana, Elasticsearch, etc.
   
-  ⚡ Currently using: Intellij, Visual Studio Code, DBeaver, Microsoft Azure, JMeter, Netbeans, etc.
+  ⚡ Currently using
   
-  🤔 Currently thinking about learn: React, Vue.js, Flutter, etc.
+    Intellij, Visual Studio Code, DBeaver, Microsoft Azure, JMeter, Netbeans, etc.
+  
+  🤔 Currently thinking about learn
+  
+    React, Vue.js, Flutter, etc.
 
 Contact
 ---
