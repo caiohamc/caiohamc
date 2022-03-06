@@ -1,4 +1,4 @@
-## Hi there 👋 👋
+# Hi there 👋 👋
 **caiohamc/caiohamc** This is my ✨ _special_ ✨ repository! It tells some things about me! Let's go ? ;)
 
 ABOUT ME
