@@ -1,6 +1,6 @@
-## Hi there 👋 👋 This is my ✨ _special_ ✨ repo! Let's go ? ;)
+## Hi there 👋 👋 This is my _special_ repo! Let's go ? ;)
 
-  🔭 Currently working with: Java 8+, Git, JMeter, REST APIs, Spring, Postgresql, Sql Server, JUnit, Scrum, Docker, Monolith, etc.
+  🔭 Currently working with: _Java 8+_, _Git_, _JMeter_, _REST APIs_, _Spring_, _Postgresql_, _Sql Server_, _JUnit_, _Scrum_, _Docker_, _Monolith_, etc.
   
   🌱 Currently learning: AWS, Angular 12+, Kubernetes, Clean Arch, Cucumber, Prometheus, Grafana, Elasticsearch, etc.
   
