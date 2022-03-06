@@ -1,9 +1,8 @@
 ## Hi there 👋 👋
----
 **caiohamc/caiohamc** This is my ✨ _special_ ✨ repository! It tells some things about me! Let's go ? ;)
 
 ### ABOUT ME
----
+
   🔭 Currently working with: Java 8+, Git, JMeter, REST APIs, Spring, Postgresql, Sql Server, JUnit, Scrum, Docker, Monolith, etc.
   
   🌱 Currently learning: AWS, Angular 12+, Kubernetes, Clean Arch, Cucumber, Prometheus, Grafana, Elasticsearch, etc.
@@ -13,7 +12,7 @@
   🤔 Currently thinking about learn: React, Vue.js, Flutter, etc.
 
 ### CONTACT
----
+
   📫 E-mail: caiohamc@gmail.com 
   
   📫 Linkedin: https://www.linkedin.com/in/caio-albuquerque-a65a9b82/
