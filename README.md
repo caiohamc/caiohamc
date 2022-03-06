@@ -4,7 +4,15 @@
 
 ### ABOUT ME
 ---
-  🔭 I’m currently working with Java 8+, Git, JMeter, Postgresql, Sql Server, JUnit, Scrum, Docker, etc.
+  🔭 I’m currently working with 
+    Java 8+
+    Git
+    JMeter
+    Postgresql
+    Sql Server
+    JUnit
+    Scrum
+    Docker, etc.
   
   🌱 I’m currently learning Clean Arch, SOLID, Angular 12+, React, Cucumber, Kubernetes, Prometheus, Grafana, Elasticsearch, etc.
   
