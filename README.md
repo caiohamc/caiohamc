@@ -1,6 +1,4 @@
-## Hi there 👋 👋 
-
-## This is my ✨ _special_ ✨ repository! It tells some things about me! Let's go ? ;)
+## Hi there 👋 👋 This is my ✨ _special_ ✨ repository! It tells some things about me! Let's go ? ;)
 
 ABOUT ME
 
