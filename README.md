@@ -8,7 +8,7 @@
   
   🤔 Currently thinking about learn: React, Vue.js, Flutter, etc.
 
-CONTACT
+Contact
 ---
 
   📫 E-mail: caiohamc@gmail.com 
