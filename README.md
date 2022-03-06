@@ -1,4 +1,4 @@
-## Hi there 👋 This is my ✨_special_✨ repo! Let's go ? ;)
+## Hi there 👋 This is my ✨ _special_ ✨ repo! Let's go ? ;)
 
   🔭 Currently working with _Java 8+_, _Git_, _JMeter_, _REST APIs_, _Spring_, _Postgresql_, _Sql Server_, _JUnit_, _Scrum_, _Docker_, etc.
   
