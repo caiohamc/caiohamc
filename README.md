@@ -1,7 +1,7 @@
 ## Hi there 👋 👋
 **caiohamc/caiohamc** This is my ✨ _special_ ✨ repository! It tells some things about me! Let's go ? ;)
 
-### ABOUT ME
+ABOUT ME
 
   🔭 Currently working with: Java 8+, Git, JMeter, REST APIs, Spring, Postgresql, Sql Server, JUnit, Scrum, Docker, Monolith, etc.
   
@@ -11,7 +11,7 @@
   
   🤔 Currently thinking about learn: React, Vue.js, Flutter, etc.
 
-### CONTACT
+CONTACT
 
   📫 E-mail: caiohamc@gmail.com 
   
