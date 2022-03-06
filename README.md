@@ -1,8 +1,5 @@
 ## Hi there 👋 👋 This is my ✨ _special_ ✨ repo! Let's go ? ;)
 
-ABOUT ME
----
-
   🔭 Currently working with: Java 8+, Git, JMeter, REST APIs, Spring, Postgresql, Sql Server, JUnit, Scrum, Docker, Monolith, etc.
   
   🌱 Currently learning: AWS, Angular 12+, Kubernetes, Clean Arch, Cucumber, Prometheus, Grafana, Elasticsearch, etc.
