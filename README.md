@@ -19,7 +19,7 @@
 <span><img height="35px" src="https://cdn.svgporn.com/logos/prometheus.svg">
 <span><img height="35px" src="https://cdn.svgporn.com/logos/grafana.svg"><br>
 
-### Experiences 📕
+## Experiences 📕
 * Git (7 years)
 * Java (7 years)
 * Spring (3 years)
@@ -37,7 +37,7 @@
 * Angular (1 year)
 * JMeter (1 year)
     
-### WORKING WITH ⚡
+## Working With ⚡
 * _Java_ 
 * _Spring_
 * _Git_
@@ -51,7 +51,7 @@
 * _DDD_ 
 * _Maven_
     
-### Learning 🌱
+## Learning 🌱
 * _Angular_
 * _AWS_
 * _Azure_ 
@@ -60,7 +60,7 @@
 * _Grafana_ 
 * _Elasticsearch_
  
-### Tools 🔨
+## Tools 🔨
 * IDE: _intellij_, _vs code_, _android studio_
 * DATABASES: _dbeaver_, _pgadmin_
 * OPERATIONAL SYSTEMS: _mac_, _linux_
