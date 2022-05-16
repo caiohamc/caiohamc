@@ -5,25 +5,24 @@
 ### Skills ⚡
 <span><img height="35px" src="https://cdn.svgporn.com/logos/git.svg">
 <span><img height="40px" src="https://cdn.svgporn.com/logos/java.svg">
-<span><img height="25px" src="https://cdn.svgporn.com/logos/spring.svg">
+<span><img height="25px" src="https://cdn.svgporn.com/logos/spring.svg"><br>
 <span><img height="25px" src="https://cdn.svgporn.com/logos/microsoft.svg">
 <span><img height="25px" src="https://cdn.svgporn.com/logos/docker.svg">
 <span><img height="32px" src="https://cdn.svgporn.com/logos/kubernetes.svg"><br>
 <span><img height="40px" src="https://cdn.svgporn.com/logos/kafka.svg">
-<span><img height="30px" src="https://cdn.svgporn.com/logos/rabbitmq.svg">
+<span><img height="30px" src="https://cdn.svgporn.com/logos/rabbitmq.svg"><br>
 <span><img height="30px" src="https://cdn.svgporn.com/logos/maven.svg">
-<span><img height="35px" src="https://cdn.svgporn.com/logos/gradle.svg"><br>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/gradle.svg">
+<span><img height="35px" src="https://cdn.svgporn.com/logos/prometheus.svg">
+<span><img height="35px" src="https://cdn.svgporn.com/logos/grafana.svg"><br>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/postgresql.svg">
 <span><img height="17px" src="https://cdn.svgporn.com/logos/oracle.svg">
-<span><img height="35px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-<span><img height="40px" src="https://cdn.svgporn.com/logos/mysql.svg">
-<span><img height="35px" src="https://cdn.svgporn.com/logos/prometheus.svg">
-<span><img height="35px" src="https://cdn.svgporn.com/logos/grafana.svg">
+<span><img height="35px" src="https://cdn.svgporn.com/logos/mongodb.svg"><br>
 
 ### Experiences 📕
+* Git (7 years)
 * Java (7 years)
 * Spring (3 years)
-* Git (7 years)
 * REST (5 years)
 * SQL (7 years)
 * PostgreSQL (4,5 years)
