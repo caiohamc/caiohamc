@@ -5,16 +5,18 @@
 <span><img height="25px" src="https://cdn.svgporn.com/logos/spring.svg">
 <span><img height="25px" src="https://cdn.svgporn.com/logos/microsoft.svg">
 <span><img height="25px" src="https://cdn.svgporn.com/logos/docker.svg">
-<span><img height="32px" src="https://cdn.svgporn.com/logos/kubernetes.svg"><br>
-<span><img height="40px" src="https://cdn.svgporn.com/logos/kafka.svg">
+<span><img height="32px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
 <span><img height="30px" src="https://cdn.svgporn.com/logos/rabbitmq.svg">
 <span><img height="30px" src="https://cdn.svgporn.com/logos/maven.svg">
-<span><img height="35px" src="https://cdn.svgporn.com/logos/gradle.svg"><br>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/gradle.svg">
 <span><img height="35px" src="https://cdn.svgporn.com/logos/postgresql.svg">
-<span><img height="17px" src="https://cdn.svgporn.com/logos/oracle.svg">
-<span><img height="35px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-<span><img height="35px" src="https://cdn.svgporn.com/logos/prometheus.svg">
-<span><img height="35px" src="https://cdn.svgporn.com/logos/grafana.svg"><br>
+<span><img height="17px" src="https://cdn.svgporn.com/logos/oracle.svg"><br>
+
+## Skills 🎆
+* Desenvolvimento Back-End
+* Criação de API REST
+* Arquitetura REST e de microsserviços
+* Experiência em SQL
 
 ## Experiences 📕
 * Git (7 years)
@@ -62,12 +64,6 @@
 * DATABASES: _dbeaver_, _pgadmin_
 * OPERATIONAL SYSTEMS: _mac_, _linux_
 * BUILD TOOLS: _maven_, _gradle_
-
-## Principais habilidades 🎆
-* Desenvolvimento Back-End
-* Criação de API REST
-* Arquitetura REST e de microsserviços
-* Experiência em SQL
-    
+   
 ## Contact
 * [![Gmail Badge](https://img.shields.io/badge/-caiohamc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:caiohamc@gmail.com)
