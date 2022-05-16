@@ -1,8 +1,5 @@
 # Caio Henrique de Albuquerque Machado Costa 
 
-[![Gmail Badge](https://img.shields.io/badge/-caiohamc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:caiohamc@gmail.com)
-
-### Skills ⚡
 <span><img height="35px" src="https://cdn.svgporn.com/logos/git.svg">
 <span><img height="40px" src="https://cdn.svgporn.com/logos/java.svg">
 <span><img height="25px" src="https://cdn.svgporn.com/logos/spring.svg">
@@ -65,3 +62,12 @@
 * DATABASES: _dbeaver_, _pgadmin_
 * OPERATIONAL SYSTEMS: _mac_, _linux_
 * BUILD TOOLS: _maven_, _gradle_
+
+## Principais habilidades 🎆
+* Desenvolvimento Back-End
+* Criação de API REST
+* Arquitetura REST e de microsserviços
+* Experiência em SQL
+    
+## Contact
+* [![Gmail Badge](https://img.shields.io/badge/-caiohamc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:caiohamc@gmail.com)
