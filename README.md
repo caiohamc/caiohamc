@@ -14,10 +14,10 @@
 <span><img height="15px" src="https://cdn.svgporn.com/logos/oracle.svg"><br>
 
 ## Skills 🎆
-* Desenvolvimento Back-End
-* Criação de API REST
-* Arquitetura REST e de microsserviços
-* Experiência em SQL
+* Back-End Development
+* REST APIs creation
+* Architectures REST, Clean Architecture, MVC, Monolith and Microservices
+* Experience with SQL
 
 ## Experiences 📕
 * Git (7 years)
