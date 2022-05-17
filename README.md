@@ -1,15 +1,16 @@
 # Caio Henrique de Albuquerque Machado Costa 
 
-<span><img height="35px" src="https://cdn.svgporn.com/logos/git.svg">
+<span><img height="33px" src="https://cdn.svgporn.com/logos/git.svg">
 <span><img height="40px" src="https://cdn.svgporn.com/logos/java.svg">
-<span><img height="25px" src="https://cdn.svgporn.com/logos/spring.svg">
-<span><img height="25px" src="https://cdn.svgporn.com/logos/microsoft.svg">
-<span><img height="25px" src="https://cdn.svgporn.com/logos/docker.svg">
-<span><img height="30px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
-<span><img height="25px" src="https://cdn.svgporn.com/logos/rabbitmq.svg">
-<span><img height="25px" src="https://cdn.svgporn.com/logos/maven.svg">
-<span><img height="35px" src="https://cdn.svgporn.com/logos/gradle.svg">
-<span><img height="35px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+<span><img height="27px" src="https://cdn.svgporn.com/logos/spring.svg">
+<span><img height="35px" src="https://cdn.svgporn.com/logos/apple.svg">
+<span><img height="27px" src="https://cdn.svgporn.com/logos/microsoft.svg">
+<span><img height="27px" src="https://cdn.svgporn.com/logos/docker.svg">
+<span><img height="32px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
+<span><img height="27px" src="https://cdn.svgporn.com/logos/rabbitmq.svg">
+<span><img height="27px" src="https://cdn.svgporn.com/logos/maven.svg">
+<span><img height="37px" src="https://cdn.svgporn.com/logos/gradle.svg">
+<span><img height="37px" src="https://cdn.svgporn.com/logos/postgresql.svg">
 <span><img height="15px" src="https://cdn.svgporn.com/logos/oracle.svg"><br>
 
 ## Skills 🎆
