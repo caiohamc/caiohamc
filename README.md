@@ -5,12 +5,12 @@
 <span><img height="25px" src="https://cdn.svgporn.com/logos/spring.svg">
 <span><img height="25px" src="https://cdn.svgporn.com/logos/microsoft.svg">
 <span><img height="25px" src="https://cdn.svgporn.com/logos/docker.svg">
-<span><img height="32px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
-<span><img height="30px" src="https://cdn.svgporn.com/logos/rabbitmq.svg">
-<span><img height="30px" src="https://cdn.svgporn.com/logos/maven.svg">
+<span><img height="30px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
+<span><img height="25px" src="https://cdn.svgporn.com/logos/rabbitmq.svg">
+<span><img height="25px" src="https://cdn.svgporn.com/logos/maven.svg">
 <span><img height="35px" src="https://cdn.svgporn.com/logos/gradle.svg">
 <span><img height="35px" src="https://cdn.svgporn.com/logos/postgresql.svg">
-<span><img height="17px" src="https://cdn.svgporn.com/logos/oracle.svg"><br>
+<span><img height="15px" src="https://cdn.svgporn.com/logos/oracle.svg"><br>
 
 ## Skills 🎆
 * Desenvolvimento Back-End
@@ -20,19 +20,21 @@
 
 ## Experiences 📕
 * Git (7 years)
-* Java (7 years)
+* Java 8 + 11 (7 years)
 * Spring (3 years)
-* REST (5 years)
+* REST APIs (5 years)
 * SQL (7 years)
-* PostgreSQL (4,5 years)
-* Sql Server (2,5 years)
+* PostgreSQL (5 years)
+* SQL Server (2 years)
+* Microsoft Azure (5 years)
 * SCRUM (4,5 years)
 * Docker (4 years)
 * Kubernetes (2 years)
 * Maven (3 years)
 * Gradle (3 years)
-* DDD (1 year)
-* Clean Arch (1 year)
+* Automated Testing (3 years)
+* Domain Driver Design (1 year)
+* Clean Architecture (1 year)
 * Angular (1 year)
 * JMeter (1 year)
     
@@ -46,7 +48,7 @@
 * _JUnit_ 
 * _Scrum_ 
 * _Microsoft Azure_ 
-* _Clean Arch_ 
+* _Clean Architecture_ 
 * _DDD_ 
 * _Maven_
     
