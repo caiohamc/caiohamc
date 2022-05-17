@@ -21,7 +21,7 @@
 
 ## Experiences 📕
 * Git (7 years)
-* Java 8 + 11 (7 years)
+* Java 7, 8 and 11 (7 years)
 * Spring (3 years)
 * REST APIs (5 years)
 * SQL (7 years)
@@ -40,7 +40,7 @@
 * JMeter (1 year)
     
 ## Working With ⚡
-* _Java_ 
+* _Java 11_ 
 * _Spring_
 * _Git_
 * _REST APIs_ 
