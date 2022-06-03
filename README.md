@@ -28,14 +28,15 @@
 * PostgreSQL (5 years)
 * SQL Server (2 years)
 * Microsoft Azure (5 years)
-* SCRUM (4,5 years)
+* Scrum (5 years)
 * Docker (4 years)
-* Kubernetes (2 years)
 * Maven (3 years)
 * Gradle (3 years)
+* JPA (3 years)
 * Automated Testing (3 years)
-* Domain Driver Design (1 year)
-* Clean Architecture (1 year)
+* Kubernetes (2 years)
+* Clean Architecture (2 years)
+* DDD (2 years)
 * Angular (1 year)
 * JMeter (1 year)
     
@@ -46,9 +47,11 @@
 * _REST APIs_ 
 * _Docker_
 * _PostgreSql_ 
+* _Hibernate_
+* _JPA_
 * _JUnit_ 
 * _Scrum_ 
-* _Microsoft Azure_ 
+* _Azure_ 
 * _Clean Architecture_ 
 * _DDD_ 
 * _Maven_
@@ -63,10 +66,10 @@
 * _Elasticsearch_
  
 ## Tools 🔨
-* IDE: _intellij_, _vs code_, _android studio_
-* DATABASES: _dbeaver_, _pgadmin_
-* OPERATIONAL SYSTEMS: _mac_, _linux_
-* BUILD TOOLS: _maven_, _gradle_
+* IDE: _Intellij_, _VS Code_, _Android Studio_
+* DATABASES: _DBeaver_, _PGAdmin_
+* OPERATIONAL SYSTEMS: _Windows_, _Mac_, _Linux_
+* BUILD TOOLS: _Maven_, _Gradle_
    
 ## Contact
 * [![Gmail Badge](https://img.shields.io/badge/-caiohamc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:caiohamc@gmail.com)
