@@ -34,12 +34,11 @@
 * Experience with SQL
 
 ## Experiences 📕
-* 8 years: Java, Git, SQL
-* 6 years: REST APIs
-* 5 years: PostgreSQL, Microsoft Azure, Scrum, Backend Development
-* 4 years: Spring, Maven
-* 3 years: Docker, Gradle, Testing, JPA, Mobile Development
-* 2 years: SQL Server, Clean Arch, Hexagonal Arch, RabbitMq, Kubernetes, DDD
+* 7 years: Java, Git, SQL
+* 5 years: REST, Scrum
+* 4 years: PostgreSQL, Azure
+* 3 years: Spring, Maven, Docker, Testing, JPA, Mobile Development, JPA, Hibernate
+* 2 years: SQL Server, DDD, Clean Arch, Gradle, Hexagonal Arch, RabbitMq, K8S, DDD
 * 1 year: NestJs, Typescript, Angular
       
 ## Contact
