@@ -5,9 +5,6 @@
 <img height="27px" src="https://cdn.svgporn.com/logos/maven.svg">
 <img height="35px" src="https://cdn.svgporn.com/logos/hibernate.svg">
 <img height="30px" src="https://cdn.svgporn.com/logos/intellij-idea.svg">
-
-<span><img height="35px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
-<img height="35px" src="https://cdn.svgporn.com/logos/nestjs.svg">
 <img height="35px" src="https://cdn.svgporn.com/logos/npm.svg">
 <img height="35px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
 
@@ -15,8 +12,7 @@
 <img height="27px" src="https://cdn.svgporn.com/logos/docker.svg">
 <img height="32px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
 <img height="27px" src="https://cdn.svgporn.com/logos/rabbitmq.svg">
-
-<span><img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg">
+<img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg">
 <img height="30px" src="https://cdn.svgporn.com/logos/postman-icon.svg">
 <img height="37px" src="https://cdn.svgporn.com/logos/postgresql.svg">
 <img height="30px" src="https://cdn.svgporn.com/logos/mongodb.svg">
