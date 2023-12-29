@@ -7,6 +7,7 @@
 <img height="30px" src="https://cdn.svgporn.com/logos/intellij-idea.svg">
 <img height="35px" src="https://cdn.svgporn.com/logos/npm.svg">
 <img height="35px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+<img height="37px" src="https://cdn.svgporn.com/logos/postgresql.svg">
 
 <span><img height="35px" src="https://cdn.svgporn.com/logos/git.svg">
 <img height="27px" src="https://cdn.svgporn.com/logos/docker.svg">
@@ -14,7 +15,6 @@
 <img height="27px" src="https://cdn.svgporn.com/logos/rabbitmq.svg">
 <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg">
 <img height="30px" src="https://cdn.svgporn.com/logos/postman-icon.svg">
-<img height="37px" src="https://cdn.svgporn.com/logos/postgresql.svg">
 <img height="30px" src="https://cdn.svgporn.com/logos/mongodb.svg">
 
 ## Skills 🎆
