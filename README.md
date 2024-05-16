@@ -21,15 +21,15 @@
 * Back-End Development
 * REST APIs creation
 * Architectures REST, Clean Architecture, MVC, Monolith and Microservices
-* Experience with SQL
+* Experience with SQL (MongoDB, Postgresql, Sql Server, MySQL)
 
 ## Experiences 📕
-* 8 years: JAVA, GIT, SQL
-* 6 years: REST, SCRUM
-* 5 years: POSTGRESQL, AZURE
-* 4 years: SPRING, MAVEN, DDD, DOCKER, JPA, HIBERNATE, AUTOMATED TESTING
-* 3 years: JDBC, MVC, CODE REVIEW
-* 2 years: SQL SERVER, SAAS, CQRS, K8S, GRAGLE, RABBITMQ
+* 9 years: JAVA, GIT, SQL
+* 7 years: REST, SCRUM
+* 6 years: POSTGRESQL, AZURE
+* 5 years: SPRING, MAVEN, DDD, DOCKER, JPA, HIBERNATE, AUTOMATED TESTING
+* 3 years: JDBC, MVC, CODE REVIEW, FLYWAY
+* 2 years: SQL SERVER, SAAS, CQRS, K8S, GRAGLE, RABBITMQ, MONGODB
       
 ## Contact
 * [![Gmail Badge](https://img.shields.io/badge/-caiohamc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:caiohamc@gmail.com)
