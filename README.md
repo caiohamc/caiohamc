@@ -17,8 +17,8 @@
 ## Skills 🎆
 * Back-End Development
 * REST APIs creation
-* Architectures REST, Clean Architecture, MVC, Monolith and Microservices
-* Experience with SQL (MongoDB, Postgresql, Sql Server, MySQL)
+* Architectures REST, Hexagonal, Clean Architecture, MVC, Monolith and Microservices
+* Experience with STORAGE/CACHE (MongoDB, Postgresql, Redis, Sql Server)
 
 ## Experiences 📕
 * 11+ years: JAVA, GIT
